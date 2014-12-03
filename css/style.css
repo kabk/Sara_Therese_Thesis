@@ -168,6 +168,14 @@ p2 {
 	line-height:19px;
 }
 
+p3 {
+	text-align: justify;
+	font-family: 'Helvetica';
+	font-weight:bold;
+	font-size:20px;
+	line-height:23px;
+}
+
 h1	{
 	font-family: 'Helvetica';
 	font-weight:normal;
