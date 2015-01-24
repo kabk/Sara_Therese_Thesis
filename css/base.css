@@ -1,0 +1,56 @@
+
+#content {
+	width: 100%;
+}
+
+
+
+
+/*block*/
+
+
+.slideclose{
+	font-size:50px;
+	position:absolute;
+	top:0;
+	right:0;
+}
+
+.slideclose a{
+	text-decoration:none;
+	color:red;
+}
+
+
+#content #slide a {
+	font-family: 'Akzidenz Grotesk Pro',sans-serif;
+	font-size:13.5px;
+	line-height:5px;
+	float:right;
+	color: black;
+	text-decoration:none;
+	text-align:red;
+
+}
+
+#content #slide a:hover {
+	color:red;
+}
+
+
+/* Specify the width of your pageslide here */
+#pageslide {
+width: 25%;
+padding: 0px 10px 10px 0px;
+overflow:auto;
+
+
+
+/* These styles are optional, and describe how the pageslide will look */
+box-shadow: 1px 1px 15px red;
+padding:10px 20px 10px 20px;
+color: black;
+font-family: 'Akzidenz Grotesk Pro',sans-serif;
+font-size:14px;
+line-height:18px;
+ }
